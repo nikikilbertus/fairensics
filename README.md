@@ -8,7 +8,7 @@ The best location to learn about fairensics are the [Jupyter Notebooks](https://
 
 Fairensics is based on [AIF360](https://aif360.mybluemix.net/) and provides compatible versions of the fairness methods found [here](https://github.com/mbilalzafar/fair-classification).
 
-A detailed documentation of fairensics can be found [here](https://fairensics-docs.readthedocs-hosted.com/en/latest/).
+A detailed documentation of fairensics can be found [here](https://fairensics.readthedocs.io/en/latest/).
 
 # Install
 
@@ -47,5 +47,5 @@ and ````test_file.py```` wants to use fairensics, the import statement would be 
 To import the method `````fair_classification`````this could be:
 
 ````python
-from fairensics.fairness_methods.modeling import fair_classification # importing a method 
+from fairensics.fairness_methods.modeling import fair_classification # importing a method
 ````
