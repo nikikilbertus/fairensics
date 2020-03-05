@@ -16,6 +16,7 @@ Original code:
 import warnings
 
 import cvxpy
+import dccp
 import numpy as np
 from aif360.algorithms import Transformer
 from aif360.datasets.binary_label_dataset import BinaryLabelDataset
