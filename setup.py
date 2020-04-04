@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="fairensics",
-    version="0.0.1",
+    version="0.0.2",
     author="Niki Kilbertus",
     author_email="nk470@cam.ac.uk",
     description="A library for fair machine learning.",
